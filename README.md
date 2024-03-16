@@ -4,6 +4,12 @@
 ● Typing indicator: Implement a feature that shows when a user is typing a message.
 ● Notifications: Notify users when someone joins or leaves the room.
 ● Message history: Store and display the last 10 messages exchanged in a room for new users joining.
+### server
+```bash
+yarn install
+yarn dev
+```
+### client
 ```bash
 yarn install
 yarn dev
