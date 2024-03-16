@@ -11,3 +11,8 @@ hassanhabibtahir@gmail.com
 muhammadaqibmasood@gmail.com
 12345678
 <img src="client/public/gif.gif"/>
+<img src="client/public/room.png"/>
+<img src="client/public/online.png"/>
+<img src="client/public/typing.png"/>
+<img src="client/public/hassan.png"/>
+<img src="client/public/tamoor.png"/>
